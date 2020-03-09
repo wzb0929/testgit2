@@ -4,3 +4,5 @@ Host gitlab.com
   Port 443
   PreferredAuthentications publickey
   IdentityFile ~/.ssh/id_rsa
+  git is free
+git is best
